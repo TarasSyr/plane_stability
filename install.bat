@@ -1,0 +1,1 @@
+pip install numpy scipy pyvista matplotlib imageio sympy
